@@ -1,0 +1,5 @@
+2023/05/11
+
+push_non_version_controlled_project_into_github
+1. Create repo in GitHub
+2. Try to push this non-version-controlled project into GitHub
